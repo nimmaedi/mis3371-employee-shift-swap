@@ -20,11 +20,11 @@ An employee submits a request to swap an assigned shift with another qualified e
 
 ## Milestone 1 Documents
 
-- Business Problem and Scope
-- Stakeholders
-- Main Transaction
-- Requirements
-- User Stories and Acceptance Criteria
-- Business Rules and States
-- Team Charter
-- Repository Evidence
+- [Business Problem and Scope](docs/business-problem-and-scope.docx)
+- [Stakeholders](docs/stakeholders.docx)
+- [Main Transaction](docs/main-transaction.docx)
+- [Functional Requirements](docs/functional-requirements.docx)
+- [Nonfunctional Requirements](docs/nonfunctional-requirements.docx)
+- [User Stories and Acceptance Criteria](docs/user-stories-acceptance.docx)
+- [Business Rules and States](docs/business-rules-and-states.docx)
+- [Team Charter](docs/team-charter.docx)

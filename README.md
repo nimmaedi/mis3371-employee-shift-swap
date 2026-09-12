@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This repository contains the Milestone 1 documentation and future capstone project files for the Employee Shift-Swap System in MIS 3371-26242.
+This repository contains the Milestone 1 documentation and future capstone project files for the Employee Shift-Swap System in MIS 3371-26252.
 
 ## Project Purpose
 
